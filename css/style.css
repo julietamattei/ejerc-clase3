@@ -1,0 +1,49 @@
+/*
+color-primario: #000000
+color-secundario: #25789F
+color-terciario: #657F2A
+color-cuarto: #A4541D
+*/
+
+.listaNav{font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: large;
+    font-weight: bold;
+    background-color: #657F2A;
+}
+
+:any-link{
+    color: white;
+    text-decoration: none;
+}
+
+.parrafo1{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 100%;
+    font-weight: lighter;
+    color: #25789F;
+    background-color: black;
+    text-align: justify;
+}
+
+.formulario{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: larger;
+    font-weight: bolder;
+    color: #a4541d;
+}
+
+.contacto{
+    background-color: black;
+}
+
+.consulta{
+    background-color: #657F2A;
+}
+
+.comentarios{
+    background-color: black;
+}
+
+.boton{
+    background-color: #25789F;
+}
